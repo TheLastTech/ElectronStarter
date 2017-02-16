@@ -1,16 +1,16 @@
 {
-  "name": "SkelEktron",
-  "description": "Unofficial Electron Template Application",
-  "version": "0.0.6",
+  "name": "Tray",
+  "description": "Modified version of skele with tray elements and a better icon",
+  "version": "0.0.7",
   "author": {
-    "name": "Vito Tardia / BZ Coding",
-    "email": "vito@bzcoding.com",
-    "url": "https://bzcoding.com/"
+    "name": "Arian Kooshesh",
+    "email": "kooshesh@gmail.com",
+    "url": "https://themaster.tech"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BZCoding/SkelEktron.git"
+    "url": "https://github.com/TheLastTech/ElectronStarter.git"
   },
   "main": "main.js",
   "scripts": {
