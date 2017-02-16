@@ -1,13 +1,13 @@
 {
-  "name": "SkelEktron",
-  "productName": "SkelEktron",
-  "description": "Electron Template Desktop Application",
+  "name": "WATM",
+  "productName": "WATMTRAY",
+  "description": "Tray app for http://wearethemighty..com",
   "version": "0.0.6",
-  "homepage": "https://github.com/BZCoding/SkelEktron",
+  "homepage": "http://wearethemighty.com",
   "author": {
-    "name": "BZ Coding",
-    "email": "hello@bzcoding.com",
-    "url": "https://bzcoding.com/"
+    "name": "Arian Kooshesh and the WATM TEAM",
+    "email": "kooshesh@gmail.com",
+    "url": "http://wearethemighty.com"
   },
   "license": "MIT",
   "main": "main.js",
